@@ -7,7 +7,7 @@ function App() {
     <div className={ isPageDark ? "BodyDark" : "BodyLight" }>
         <img alt="Profile Pic" className="ProfileImage" src="https://media-exp1.licdn.com/dms/image/C4D03AQHMmkp3U8vQdA/profile-displayphoto-shrink_800_800/0/1646000571951?e=1658361600&v=beta&t=_DPW_lHvwdHVNzlcJCfdrL3d74OqEHlbBS4PE6t-vRM" />
         <h1>
-            Joshua D'Souza :) Thank you!
+            Joshua D'Souza :) Thank you! Changing this
         </h1>
         <h3>
             Hey everyone, I'm Josh!
