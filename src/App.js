@@ -9,7 +9,7 @@ function App() {
         src="https://media-exp1.licdn.com/dms/image/C4D03AQHMmkp3U8vQdA/profile-displayphoto-shrink_400_400/0/1646000571951?e=1674086400&v=beta&t=y5ROVjSUbcvieEcOD3pVwL-QcTS0lmWvzDkyHvI_IUk"
         />
         <h1>
-            Joshua D'Souza :) Thank you! Changing this
+            Joshua D'Souza :) Thank you!
         </h1>
         <h3>
             Hey everyone, I'm Josh!
