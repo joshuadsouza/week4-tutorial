@@ -15,7 +15,7 @@ function App() {
             Hey everyone, I'm Josh!
         </h3>
         <p>
-            This is an example of a React page. Thanks for doing this tutorial!
+            This is an example of a React page. Thanks for doing this tutorial.
         </p>
         <a className={ isPageDark ? "LightText" : "DarkText" } id="linkedin" target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/joshua-d-souza-758b74132/">
             My LinkedIn
